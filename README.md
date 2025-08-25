@@ -70,8 +70,8 @@ Key Contributions:
  
 
 ##  Team
--Karunakar Uppalapati
--Varshitha Reddy Davarapalli
+- Karunakar Uppalapati
+- Varshitha Reddy Davarapalli
 - Saketha Kusu
 
 
